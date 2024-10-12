@@ -1,0 +1,964 @@
+[
+  {
+    "id": "1",
+    "carousel": [
+      { "img": "ss_slider.webp" },
+      { "img": "ss_slide3.webp" },
+      { "img": "ss_slider.webp" },
+      { "img": "ss_slide4.webp" }
+    ],
+    "title": "single Room",
+    "productImg": "single-share.webp",
+    "price": 24000,
+    "priceRange": ["Low Budget"],
+    "discount": 5,
+    "country": true,
+    "district": "Single Share",
+    "properties": 6,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 4,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "",
+    
+    "locantion": "Btm 2nd Stage Near Lake ",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Discover a haven of well-being at Starlive PG. Our single rooms redefine solo living with health-centric amenities. Enjoy nutritious meals, thoughtfully designed interiors, and spacious rooms. Elevate your lifestyle at Starlive. Contact us to reserve your wellness-focused single room today!",
+      "shortDescription": "At Starlive, a single room transcends the ordinary, offering an immersive living experience where every facet is meticulously curated for your satisfaction. Elevate your lifestyle with a Starlive single room—reserve your exclusive space today and embark on a journey where comfort, wellness, and style converge in perfect harmony."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 1,
+      "propertyStatus": "FOR RENT",
+      "rooms": 1,
+      "bedrooms": 1,
+      "baths": 1,
+      "createdYear": "New Building"
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": [""],
+    "agent": {
+      "firstName": "StarLive ",
+      "lastName": "Co-living PG",
+      "fullName": "StarLive PG Accomadtion ",
+      "type": "",
+      "img": "starlive.png",
+      "designation": "Co-living/Male/Female",
+      "raiting": 3,
+      "description": "Discover the epitome of modern living at our premium Paying Guest accommodation. At Starlive, we redefine the PG experience, offering a perfect blend of comfort, convenience, and community. Our carefully curated living spaces are designed to cater to the needs of today's discerning individuals seeking a home away from home.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["Luxury PG"]
+  },
+  {
+    "id": "2",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Three Sharing",
+    "productImg": "three_share.webp",
+    "price": 8420,
+    "priceRange": ["Medium"],
+    "discount": 5,
+    "country": true,
+    "district": "Three Sharing",
+    "properties": 2,
+    "featured": false,
+    "new": false,
+    "rent": true,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 3,
+    "rating": 4,
+    "saleCount": 10,
+    "category": ["buying"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "variation": [
+      {
+        "color": "brown",
+        "colorCode": "#87554b",
+        "image": "1.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "color": "black",
+        "colorCode": "#333333",
+        "image": "2.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "xl",
+            "stock": 9
+          },
+          {
+            "name": "xxl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "color": "red",
+        "colorCode": "#da323f",
+        "image": "3.jpg",
+        "size": [
+          {
+            "name": "x",
+            "stock": 1
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "xl",
+            "stock": 4
+          },
+          {
+            "name": "xxl",
+            "stock": 0
+          }
+        ]
+      }
+    ],
+    "date": "",
+ 
+    "locantion": "Btm 2nd Stage Near Lake ",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 1,
+      "propertyStatus": "FOR RENT",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 1,
+      "createdYear": "New Building"
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Kids Zone"],
+    "agent": {
+      "firstName": "StarLive ",
+      "lastName": "Co-living PG",
+      "fullName": "StarLive PG Accomadtion ",
+      "type": "Property Seller",
+      "img": "starlive.png",
+      "designation": "",
+      "raiting": 3,
+      "description": "Discover the epitome of modern living at our premium Paying Guest accommodation. At Starlive, we redefine the PG experience, offering a perfect blend of comfort, convenience, and community. Our carefully curated living spaces are designed to cater to the needs of today's discerning individuals seeking a home away from home.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["Apartment", "Office Villa", "Luxary Home", "Studio"]
+  },
+  {
+    "id": "3",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Four Sharing",
+    "productImg": "four_share.webp",
+    "price": 7,
+    "priceRange": ["High Budget"],
+    "discount": 15,
+    "country": false,
+    "district": "Noe Valley Zones",
+    "properties": 3,
+    "featured": false,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 2,
+    "rating": 3,
+    "saleCount": 15,
+    "category": ["buying", "selling"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "",
+
+    "locantion": "Btm 2nd Stage Near Lake ",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 1,
+      "propertyStatus": "FOR RENT",
+      "rooms": 1,
+      "bedrooms": 1,
+      "baths": 1,
+      "createdYear": "New Building"
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Floor Coverings"],
+    "agent": {
+      "firstName": "StarLive ",
+      "lastName": "Co-living PG",
+      "fullName": "StarLive PG Accomadtion ",
+      "type": "Property Seller",
+      "img": "starlive.png",
+      "designation": "",
+      "raiting": 3,
+      "description": "Discover the epitome of modern living at our premium Paying Guest accommodation. At Starlive, we redefine the PG experience, offering a perfect blend of comfort, convenience, and community. Our carefully curated living spaces are designed to cater to the needs of today's discerning individuals seeking a home away from home.      ",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Single Family", "Luxary Home", "Studio"]
+  },
+  {
+    "id": "4",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Two Sharing",
+    "productImg": "two_share.webp",
+    "price": 12500,
+    "priceRange": ["Medium"],
+    "discount": 10,
+    "country": false,
+    "district": "Two Sharing",
+    "properties": 1,
+    "featured": true,
+    "new": false,
+    "rent": true,
+    "photo": ["buying", "women", "men"],
+    "video": ["buying", "women", "children"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 5,
+    "saleCount": 20,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "",
+   
+    "locantion": "Btm 2nd Stage Near Lake ",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 1,
+      "propertyStatus": "FOR RENT",
+      "rooms": 7,
+     
+      "baths": 1,
+      "createdYear": "New Building"
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Floor Coverings"],
+    "agent": {
+      "firstName": "StarLive ",
+      "lastName": "Co-living PG",
+      "fullName": "StarLive PG Accomadtion ",
+      "type": "Property Seller",
+      "img": "starlive.png",
+      "designation": "",
+      "raiting": 3,
+      "description": "Discover the epitome of modern living at our premium Paying Guest accommodation. At Starlive, we redefine the PG experience, offering a perfect blend of comfort, convenience, and community. Our carefully curated living spaces are designed to cater to the needs of today's discerning individuals seeking a home away from home.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": [
+      "House",
+      "Single Family",
+      "Apartment",
+      "Luxary Home",
+      "Studio"
+    ]
+  },
+  {
+    "id": "5",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Three Sharing",
+    "productImg": "three_share.webp",
+    "price": 8999,
+    "priceRange": ["Low Budget"],
+    "discount": 5,
+    "country": true,
+    "district": "Three Sharing",
+    "properties": 2,
+    "featured": true,
+    "new": true,
+    "rent": true,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 5,
+    "saleCount": 90,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "",
+
+    "locantion": "Btm 2nd Stage Near Lake ",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 1,
+      "propertyStatus": "FOR RENT",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 1,
+      "createdYear": "New Building"
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Supermarket"],
+    "agent": {
+      "firstName": "StarLive ",
+      "lastName": "Co-living PG",
+      "fullName": "StarLive PG Accomadtion ",
+      "type": "Property Seller",
+      "img": "starlive.png",
+      "designation": "",
+      "raiting": 3,
+      "description": "Discover the epitome of modern living at our premium Paying Guest accommodation. At Starlive, we redefine the PG experience, offering a perfect blend of comfort, convenience, and community. Our carefully curated living spaces are designed to cater to the needs of today's discerning individuals seeking a home away from home.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Single Family", "Apartment", "Office Villa"]
+  },
+ 
+  {
+    "id": "6",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Four Sharing",
+    "productImg": "four_share.webp",
+    "price": 7999,
+    "priceRange": ["Low Budget", "Medium"],
+    "discount": 5,
+    "country": false,
+    "district": "Four Sharing",
+    "properties": 2,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 5,
+    "saleCount": 30,
+    "category": ["buying", "renting", "selling"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "",
+ 
+    "locantion": "Btm 2nd Stage Near Lake ",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 1,
+      "propertyStatus": "FOR RENT",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths":1,
+      "createdYear": "New Building"
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Supermarket"],
+    "agent": {
+      "firstName": "StarLive ",
+      "lastName": "Co-living PG",
+      "fullName": "StarLive PG Accomadtion ",
+      "type": "Property Seller",
+      "img": "starlive.png",
+      "designation": "",
+      "raiting": 3,
+      "description": "Discover the epitome of modern living at our premium Paying Guest accommodation. At Starlive, we redefine the PG experience, offering a perfect blend of comfort, convenience, and community. Our carefully curated living spaces are designed to cater to the needs of today's discerning individuals seeking a home away from home.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["Office Villa"]
+  },
+  {
+    "id": "8",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Three Sharing",
+    "productImg": "three_share.webp",
+    "price": 500,
+    "priceRange": ["Low Budget", "Medium"],
+    "discount": 5,
+    "country": false,
+    "district": "Three Sharing",
+    "properties": 2,
+    "featured": false,
+    "new": true,
+    "rent": true,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 5,
+    "saleCount": 35,
+    "category": ["buying", "renting", "selling"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "",
+   
+    "locantion": "Btm 2nd Stage Near Lake ",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 1,
+      "propertyStatus": "FOR RENT",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 1,
+      "createdYear": "New Building"
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Supermarket"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "starlive.png",
+      "designation": "",
+      "raiting": 3,
+      "description": "Discover the epitome of modern living at our premium Paying Guest accommodation. At Starlive, we redefine the PG experience, offering a perfect blend of comfort, convenience, and community. Our carefully curated living spaces are designed to cater to the needs of today's discerning individuals seeking a home away from home.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["Single Family"]
+  },
+  {
+    "id": "9",
+    "carousel": [
+      { "img": "35.jpg" },
+      { "img": "31.jpg" },
+      { "img": "32.jpg" },
+      { "img": "33.jpg" }
+    ],
+    "title": "Four Sharing",
+    "productImg": "four_share.webp",
+    "price": 270,
+    "priceRange": ["Low Budget"],
+    "discount": 5,
+    "country": true,
+    "district": "Four Sharing",
+    "properties": 10,
+    "featured": false,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 5,
+    "saleCount": 90,
+    "category": ["buying", "selling"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "",
+
+    "locantion": "Btm 2nd Stage Near Lake ",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
+      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": 1,
+      "propertyStatus": "FOR RENT",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 1,
+      "createdYear": "New Building"
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Supermarket"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "starlive.png",
+      "designation": "",
+      "raiting": 3,
+      "description": "Discover the epitome of modern living at our premium Paying Guest accommodation. At Starlive, we redefine the PG experience, offering a perfect blend of comfort, convenience, and community. Our carefully curated living spaces are designed to cater to the needs of today's discerning individuals seeking a home away from home.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "14.jpg",
+      "img2": "15.jpg",
+      "img3": "16.jpg"
+    },
+    "propertyTypes": ["House", "Single Family"]
+  }
+]

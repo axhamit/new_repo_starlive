@@ -1,0 +1,35 @@
+[
+  {
+    "subtitle": "StarLive Co-living PG",
+    "Title": "StarLive PG: Your Ideal Stay Awaits!",
+    "Desc": "Find your perfect stay at StarLive PG – Where comfort meets community!",
+    "icon": "FaHome",
+    "bgImage": "111.jpg",
+    "id": "1",
+    "buttonText": "Make An Enquiry",
+    "variationCenter": true,
+    "variationRight": false
+  },
+  {
+    "subtitle": "StarLive Co-living PG",
+    "Title": "Diverse Comfort: StarLive PG Rooms for Boys, Girls, and Co-living!",
+    "Desc": "Discover diverse living at StarLive PG with rooms designed for boys, girls, and co-living enthusiasts. Your ideal space is here!",
+    "icon": "FaHome",
+    "bgImage": "15.jpg",
+    "id": "2",
+    "buttonText": "Make An Enquiry",
+    "variationCenter": false,
+    "variationRight": true
+  },
+  {
+    "subtitle": "StarLive Co-living PG",
+    "Title": "Find Your Space: StarLive PG Rooms Catering to All Stays!",
+    "Desc": "Effortless living at StarLive PG: explore rooms for boys, girls, and co-living. Your personalized haven awaits!",
+    "icon": "FaHome",
+    "bgImage": "13.jpg",
+    "id": "3",
+    "buttonText": "Make An Enquiry",
+    "variationCenter": false,
+    "variationRight": false
+  }
+]
